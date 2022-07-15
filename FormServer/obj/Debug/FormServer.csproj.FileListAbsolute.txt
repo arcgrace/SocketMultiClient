@@ -1,0 +1,4 @@
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\obj\Debug\FormServer.csproj.AssemblyReference.cache
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\obj\Debug\FormServer.Properties.Resources.resources
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\obj\Debug\FormServer.csproj.GenerateResource.cache
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\obj\Debug\FormServer.csproj.CoreCompileInputs.cache

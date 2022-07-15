@@ -1,0 +1,9 @@
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\obj\Debug\SocketTest.FormServer.resources
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\obj\Debug\FormServer.Properties.Resources.resources
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\obj\Debug\SocketTest.csproj.GenerateResource.cache
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\obj\Debug\SocketTest.csproj.CoreCompileInputs.cache
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\bin\Debug\FormServer.exe.config
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\bin\Debug\FormServer.exe
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\bin\Debug\FormServer.pdb
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\obj\Debug\FormServer.exe
+D:\台眾電腦\visualStudio\SocketForm\FormServer\FormServer\obj\Debug\FormServer.pdb
